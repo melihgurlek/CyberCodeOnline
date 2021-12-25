@@ -37,7 +37,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Do you want to buy Units, or use your Units?"
+ 	 	 	 	 	"Birim satın almak mı yoksa elindeki birimleri kullanmak mı istiyorsun?"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Do you want to buy Units, or use your Units?"
@@ -59,7 +59,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Hi! Donate to get cosmetic perks and to help support Free-to-Win games like this one!"
+ 	 	 	 	 	"Selam! Kozmetik görünüşler kazanmak ve bunun gibi oynaması ücretsiz oyunları desteklemek için lütfen bağış yap!"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Hi! Donate to get cosmetic perks and to help support Free-to-Win games like this one!"
@@ -91,7 +91,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"You will find the best gear here, trust me."
+ 	 	 	 	 	"En iyi ekipmanı burada bulacaksın, bana güven."
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"You will find the best gear here, trust me."
@@ -117,7 +117,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"I'll help you to progress to the next area!"
+ 	 	 	 	 	"Sonraki bölgeye geçmene yardımcı olacağım!"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"I'll help you to progress to the next area!"
@@ -131,7 +131,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Hey kid... Come check out my goods."
+ 	 	 	 	 	"Hey çocuk... Gel mallarıma bir bak."
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Hey kid... Come check out my goods."
@@ -193,7 +193,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Hey kid, I'm Lee, You know, you don't have to carry everything you own in your pockets."
+ 	 	 	 	 	"Hey çocuk, ben Lee, her şeyi ceplerinde taşımana gerek yok biliyorsun değil mi?"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Hey kid, I'm Lee, You know, you don't have to carry everything you own in your pockets."
@@ -4859,11 +4859,11 @@
  	 	 	"eng": "with pockets"
  	 	},
  	 	"criticalChanceArmor": {
- 	 	 	"trans": "kriter şansı",
+ 	 	 	"trans": "kritik şansı",
  	 	 	"eng": "of Crit Chance"
  	 	},
  	 	"criticalChanceWeapon": {
- 	 	 	"trans": "kriter şansı",
+ 	 	 	"trans": "kritik şansı",
  	 	 	"eng": "of Crit Chance"
  	 	},
  	 	"criticalDamageArmor": {
@@ -4875,7 +4875,7 @@
  	 	 	"eng": "of Healing"
  	 	},
  	 	"criticalDamageWeapon": {
- 	 	 	"trans": "kriter hasarı",
+ 	 	 	"trans": "kritik hasarı",
  	 	 	"eng": "of Crit Damage"
  	 	},
  	 	"upgradeHealth": {
@@ -4903,11 +4903,11 @@
  	 	 	"eng": "of Stun"
  	 	},
  	 	"upgradeCriticalChance": {
- 	 	 	"trans": "kriter şansı",
+ 	 	 	"trans": "kritik hasar şansı",
  	 	 	"eng": "of Crit Chance"
  	 	},
  	 	"upgradeCriticalDamage": {
- 	 	 	"trans": "kriter hasarı",
+ 	 	 	"trans": "kritik hasarı",
  	 	 	"eng": "of Crit Damage"
  	 	},
  	 	"upgradeEvade": {
